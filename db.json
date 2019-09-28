@@ -1,6 +1,7 @@
 {
    "nds":{
-      "data_user":[
+      "data_user":{
+	  "data":[
          {
             "uid":"modowling0",
             "user_name":"Malachi O'Dowling",
@@ -36,8 +37,9 @@
             "user_name":"Puff Ruberti",
             "user_ava":"https://robohash.org/idvoluptasmaxime.png?size=50x50&set=set1"
          }
-      ],
-	  "data_menu":[
+      ]},
+	  "data_menu":{
+	  "data":[
          {
             "uid":"modowling0",
             "user_name":"Malachi O'Dowling",
@@ -73,6 +75,6 @@
             "user_name":"Puff Ruberti",
             "user_ava":"https://robohash.org/idvoluptasmaxime.png?size=50x50&set=set1"
          }
-      ]
+      ]}
    }
 }
